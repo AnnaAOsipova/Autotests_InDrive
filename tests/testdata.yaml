@@ -1,0 +1,14 @@
+user:
+  name: "Name"
+  phone: "+70000000000"
+  sms_code: "234198"
+
+order:
+  start_point: "Start Point"
+  end_point: "End Point"
+  price: "300"
+
+languages:
+  initial_language: "English"
+  target_language: "French"
+  language_text: "Langue"

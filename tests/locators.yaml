@@ -1,0 +1,21 @@
+register_button: "com.indrive:id/register_button"
+name_input: "com.indrive:id/name_input"
+phone_input: "com.indrive:id/phone_input"
+code_input: "com.indrive:id/code_input"
+register_confirm_button: "com.indrive:id/register_confirm_button"
+
+login_button: "com.indrive:id/login_button"
+login_confirm_button: "com.indrive:id/login_confirm_button"
+login_code_input: "com.indrive:id/code_input"
+
+start_point: "com.indrive:id/start_point"
+end_point: "com.indrive:id/end_point"
+price_input: "com.indrive:id/price_input"
+order_confirm_button: "com.indrive:id/order_confirm_button"
+order_successful_message: "com.indrive:id/order_successful_message"
+
+settings_button: "com.indrive:id/settings_button"
+language_option: "com.indrive:id/language_option"
+language_english: "com.indrive:id/language_english"
+language_french: "com.indrive:id/language_french"
+save_button: "com.indrive:id/save_button"
